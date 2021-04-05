@@ -1,3 +1,7 @@
+#Version 2 coming in April 2021
+################################
+
+
 import os
 import time
 import playsound
